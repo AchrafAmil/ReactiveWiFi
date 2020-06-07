@@ -1,3 +1,7 @@
+---
+# This branch is only intended for EXPERIMENTAL USE with Android R data auditing API. We will deliberately access sensitive user data to test auditing logs.
+---
+
 # ReactiveWiFi [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ReactiveWiFi-brightgreen.svg?style=true)](https://android-arsenal.com/details/1/3913)
 
 Android library listening available WiFi Access Points and related information with RxJava Observables.
